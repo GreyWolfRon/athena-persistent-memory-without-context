@@ -3,20 +3,32 @@
 **Persistent Memory Without Persistent Context**  
 *Reducing Context Toxicity in Long-Duration AI Agents*
 
-Modern LLM agent systems suffer from a critical flaw: they treat ever-growing conversational history as memory. The result is runaway token costs, unstable orchestration, recursive contamination, and eventual session collapse.
+![Athena Banner](assets/athena-banner.png)
 
-Athena solves this at the architectural level.
+Modern LLM agent systems treat ever-growing conversational history as memory.  
+The result is runaway token costs, unstable orchestration, recursive contamination, and eventual session collapse.
 
-This repository contains the complete Athena Persistent-Memory Cognitive Architecture papers:
+**Athena** solves this at the architectural level.
 
-- **Athena v1.01** – Foundational persistent-memory framework
-- **Athena II v0.2** – Production transition to database-native continuity (the flagship paper)
-- **Argus v0.03** – The supervisory sentinel layer (COCC + CITD) for detecting and correcting silent operational drift
+### The Athena Cognitive Architecture Suite
 
-Built and battle-tested in real OpenClaw multi-agent environments, Athena delivers dramatic reductions in context usage (100k → 5–15k HOT tokens) while preserving identity, operational continuity, and agent stability.
+- **[Athena v1.01](Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf)**  
+  Foundational persistent-memory framework for OpenClaw
 
-**Core Thesis:**  
-Stable persistence emerges from disciplined retrieval — not from carrying the entire past forward into every thought.
+- **[Athena II v0.2](Athena_II_White_paper_v0.2.pdf)** ← **Recommended starting point**  
+  Production transition to database-native continuity (the flagship paper)
+
+- **[Argus v0.03](Argus_v0.03.pdf)**  
+  The never-sleeping supervisory sentinel layer (COCC + CITD) that detects and corrects silent operational drift
+
+### Core Thesis
+**Stable persistence emerges from disciplined retrieval — not from carrying the entire past forward into every thought.**
 
 ---
-**Part of the Grey Wolf Labs Cognitive Architecture Suite**
+
+**Part of the Grey Wolf Labs Cognitive Architecture Suite**  
+Built and battle-tested in real OpenClaw multi-agent environments.
+
+---
+
+![The Principle](assets/the-principle.png)
