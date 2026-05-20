@@ -25,7 +25,7 @@ This is an architectural dead end.
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Recommended starting point</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
 
-- <a href="https://github.com/GreyWolfRon/argus-project/raw/main/Argus_v0.03.pdf" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a><br>
+- <a href="https://github.com/GreyWolfRon/argus-project" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a><br>
   The never-sleeping supervisory sentinel layer (COCC + CITD)
 
 ### Core Thesis
