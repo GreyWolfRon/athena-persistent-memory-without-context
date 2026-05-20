@@ -12,7 +12,7 @@ The result is runaway token costs, unstable orchestration, recursive contaminati
 
 ### The Athena Cognitive Architecture Suite
 
-- **[Athena v1.01](<a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>**  
+- **[Athena v1.01](<a href="[https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf](https://github.com/GreyWolfRon/athena-persistent-memory-architecture)" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>**  
   Foundational persistent-memory framework for OpenClaw
 
 - **[Athena II v0.2](Athena_II_White_paper_v0.2.pdf)** ← **Recommended starting point**  
