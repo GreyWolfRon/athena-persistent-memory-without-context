@@ -15,11 +15,9 @@ The result is runaway token costs, unstable orchestration, recursive contaminati
 - **Athena v1.01 <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a>**  
   Foundational persistent-memory framework for OpenClaw
 
-- **[Athena II v0.2](Athena_II_White_paper_v0.2.pdf)** ← **Recommended starting point**  
-  Production transition to database-native continuity (the flagship paper)
-
-- **[Argus v0.03](Argus_v0.03.pdf)**  
+- **Argus v0.03 <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a>**(https://github.com/GreyWolfRon/athena-persistent-memory-architecture)**  
   The never-sleeping supervisory sentinel layer (COCC + CITD)
+
 ### Core Thesis
 **Stable persistence emerges from disciplined retrieval — not from carrying the entire past forward into every thought.**
 
