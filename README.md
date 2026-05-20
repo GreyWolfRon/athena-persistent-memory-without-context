@@ -3,32 +3,37 @@
 **Persistent Memory Without Persistent Context**  
 *Reducing Context Toxicity in Long-Duration AI Agents*
 
-![Athena Banner](/images/Athena%20-%20Persistance%20is%20Cognition.png)
+![Athena Banner](images/Athena%20-%20Persistance%20is%20Cognition.png)
 
-Modern LLM agent systems treat ever-growing conversational history as memory.  
-The result is runaway token costs, unstable orchestration, recursive contamination, and eventual session collapse.
+> **The session-as-mind model is broken.**
 
-**Athena** solves this at the architectural level.
+Modern LLM agents are drowning in their own history.  
+Runaway token costs. Context toxicity. Silent operational drift. Compaction failures. Session collapse.
+
+**Athena fixes it at the architectural level.**
 
 ### The Athena Cognitive Architecture Suite
 
-- **<a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a>**  
+- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
   Foundational persistent-memory framework for OpenClaw
 
-- **[Athena II v0.2](docs/Athena_II_White_paper%20v0.2.pdf)** ← **This WhitePaper**  
-  Production transition to database-native continuity (the flagship paper)
+- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Recommended starting point</strong><br>
+  **Production-proven** transition to database-native continuity (the flagship paper)
 
-- **<a href="https://github.com/GreyWolfRon/argus-project" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a>**  
+- <a href="https://github.com/GreyWolfRon/argus-project/raw/main/Argus_v0.03.pdf" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a><br>
   The never-sleeping supervisory sentinel layer (COCC + CITD)
 
 ### Core Thesis
-**Stable persistence emerges from disciplined retrieval — not from carrying the entire past forward into every thought.**
+**Stable persistence emerges from disciplined retrieval —  
+not from carrying the entire past forward into every thought.**
 
 ---
 
 **Part of the Grey Wolf Labs Cognitive Architecture Suite**  
-Built and battle-tested in real OpenClaw multi-agent environments.
+Battle-tested in real long-duration OpenClaw multi-agent deployments.
 
 ---
 
 ![The Principle](images/the_principle.png)
+
+**PERSISTENCE IS COGNITION. INTELLIGENCE THAT ENDURES.**
