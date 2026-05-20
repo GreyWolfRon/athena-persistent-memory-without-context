@@ -3,7 +3,7 @@
 **Persistent Memory Without Persistent Context**  
 *Reducing Context Toxicity in Long-Duration AI Agents*
 
-![Athena Banner](assets/images/Athena%20-%20Persistance%20is%20Cognition.png)
+![Athena Banner](/images/Athena%20-%20Persistance%20is%20Cognition.png)
 
 Modern LLM agent systems treat ever-growing conversational history as memory.  
 The result is runaway token costs, unstable orchestration, recursive contamination, and eventual session collapse.
