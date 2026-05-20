@@ -31,4 +31,4 @@ Built and battle-tested in real OpenClaw multi-agent environments.
 
 ---
 
-![The Principle](assets/the-principle.png)
+![The Principle](images/the_principle.png)
