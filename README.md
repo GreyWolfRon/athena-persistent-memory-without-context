@@ -22,6 +22,7 @@ This is an architectural dead end.
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
   Foundational persistent-memory framework for OpenClaw
 
+- Athena II v0.2 
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Recommended starting point</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
 
