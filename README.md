@@ -19,6 +19,9 @@ This is an architectural dead end.
 
 ### The Athena Cognitive Architecture Suite
 
+- **<a href="https://github.com/GreyWolfRon/argus-project" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03**</strong></a><br>
+  The never-sleeping supervisory sentinel layer (COCC + CITD)
+
 - **[Athena II v0.02](docs/Athena_II_White_paper%20v0.2.pdf)** ← <strong>Where you are now!</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
 
