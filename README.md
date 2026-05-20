@@ -19,7 +19,7 @@ This is an architectural dead end.
 
 ### The Athena Cognitive Architecture Suite
 
-- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
+- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
   Foundational persistent-memory framework for OpenClaw
 
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Recommended starting point</strong><br>
