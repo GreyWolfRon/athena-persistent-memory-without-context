@@ -17,7 +17,7 @@ Runaway token costs. Context toxicity. Silent operational drift. Compaction fail
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.01.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
   Foundational persistent-memory framework for OpenClaw
 
-- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Recommended starting point</strong><br>
+- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>Where you are now!</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
 
 - <a href="https://github.com/GreyWolfRon/argus-project/raw/main/Argus_v0.03.pdf" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a><br>
