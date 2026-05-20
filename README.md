@@ -19,7 +19,7 @@ This is an architectural dead end.
 
 ### The Athena Cognitive Architecture Suite
 
-[Download Athena_II](docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf)
+[Download Athena_II](docs/Athena_II_White_paper%20v0.2.pdf)
 
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>WHERE YOU ARE NOW!</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
