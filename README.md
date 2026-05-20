@@ -22,7 +22,10 @@ This is an architectural dead end.
 - <a href="https://github.com/GreyWolfRon/athena-persistent-memory-architecture" target="_blank" rel="noopener noreferrer"><strong>Athena v1.01</strong></a><br>
   Foundational persistent-memory framework for OpenClaw
 
-- **![Athena II v0.2] ()** ← <strong>Where you are now!</strong><br>
+- <a href="https://github.com/GreyWolfRon/athena-persistent-memory-without-context/raw/main/docs/Athena_II_White_paper%20v0.2.pdf" target="_blank" rel="noopener noreferrer"><strong>Athena II v0.2</strong></a> ← <strong>WHERE YOU ARE NOW!</strong><br>
+  **Production-proven** transition to database-native continuity (the flagship paper)
+
+- **![Athena II v0.2] (docs/Athena_II_White_paper%20v0.2.pdf)** ← <strong>Where you are now!</strong><br>
   **Production-proven** transition to database-native continuity (the flagship paper)
 
 - <a href="https://github.com/GreyWolfRon/argus-project" target="_blank" rel="noopener noreferrer"><strong>Argus v0.03</strong></a><br>
